@@ -1,0 +1,5 @@
+matplotlib
+xlrd
+xlwt
+xlutils
+mtcnn
