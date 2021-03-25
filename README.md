@@ -15,3 +15,5 @@ pip install xlrd
 pip install xlwt
 
 pip install xlutils
+
+pip install -r requirements.txt
