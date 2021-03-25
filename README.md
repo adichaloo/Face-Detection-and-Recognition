@@ -10,6 +10,6 @@ Upload faces in
 people/user_name/images of the users
 
 
-pip install xlrd
-pip install xlwt
+pip install xlrd 
+pip install xlwt 
 pip install xlutils
