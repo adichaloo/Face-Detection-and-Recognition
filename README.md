@@ -2,6 +2,7 @@
 Face Detection and Recognition for Attendance based System
 
 To install dependencies:
+
 pip install -r requirements.txt
 
 Create a folder called people
